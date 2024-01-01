@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "a67m8qHCMC6S0UnrqbiYnBK5qwxCbnNn6WijXnzgaIQyG38g5G/yXIx0dLDZVYJRmw8NmCMr9MLpbMoL/+rH5A==",
+  "success": true,
+  "projectFilePath": "/Users/htdung_vnn/RiderProjects/Server/GrpcClient/GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/htdung_vnn/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/grpc.core.api/2.60.0-pre1/grpc.core.api.2.60.0-pre1.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/grpc.net.client/2.60.0-pre1/grpc.net.client.2.60.0-pre1.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/grpc.net.common/2.60.0-pre1/grpc.net.common.2.60.0-pre1.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/grpc.tools/2.60.0/grpc.tools.2.60.0.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

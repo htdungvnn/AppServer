@@ -33,3 +33,11 @@
 /Users/htdung_vnn/RiderProjects/Server/GrpcService/obj/Debug/net8.0/GrpcService.pdb
 /Users/htdung_vnn/RiderProjects/Server/GrpcService/obj/Debug/net8.0/GrpcService.genruntimeconfig.cache
 /Users/htdung_vnn/RiderProjects/Server/GrpcService/obj/Debug/net8.0/ref/GrpcService.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Microsoft.AspNetCore.Grpc.JsonTranscoding.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Microsoft.AspNetCore.Grpc.Swagger.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/htdung_vnn/RiderProjects/Server/GrpcService/obj/Debug/net8.0/GrpcService.MvcApplicationPartsAssemblyInfo.cs
