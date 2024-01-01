@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RI33c/k5b8PGRPF7mSQUUY+uP8rkBkjAWpmb+RsvBOA5Dd2/I3ALtYu3u+O80Lo1MLEydERhEpsV5bLC80VBrQ==",
+  "success": true,
+  "projectFilePath": "/Users/htdung_vnn/RiderProjects/Server/NativeAOT/NativeAOT.csproj",
+  "expectedPackageFiles": [
+    "/Users/htdung_vnn/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.0/microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "/Users/htdung_vnn/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.0/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
